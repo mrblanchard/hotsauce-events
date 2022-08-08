@@ -6,7 +6,7 @@ export default function AboutPage() {
     <Layout title='About hot sauce events'>
       <h1>About</h1>
       <p>This is an app to find the latest hot sauce events.</p>
-      <p>Version 1.0.0</p>
+      
       <Link href='/'>Home</Link>
     </Layout>
   );
